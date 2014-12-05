@@ -2,5 +2,5 @@ hello-world2
 ============
 hello-world2
 this is another
-chanfe that I'VE MADE
+chanfe that I've made
 MySecond Repository on GitHub
